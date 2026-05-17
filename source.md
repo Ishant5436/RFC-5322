@@ -937,6 +937,7 @@ RFC 5322                Internet Message Format             October 2008
    application, and (2) an addr-spec address enclosed in angle brackets
 
 
+[CAP-ANNOTATION-REQUIRED: INSERT SECOND CAP BLOCK HERE — SEE DOCUMENT HEADER FOR REQUIRED FORMAT. BOTH BLOCKS ARE VALIDATED BY CI.]
 
 
 
@@ -1097,6 +1098,7 @@ RFC 5322                Internet Message Format             October 2008
 
 
 
+[CAP-ANNOTATION-REQUIRED: INSERT THIRD CAP BLOCK HERE — SEE DOCUMENT HEADER FOR REQUIRED FORMAT. BOTH BLOCKS ARE VALIDATED BY CI.]
 
 
 
@@ -1999,6 +2001,7 @@ RFC 5322                Internet Message Format             October 2008
 
 
 
+[CAP-ANNOTATION-REQUIRED: INSERT FOURTH CAP BLOCK HERE — SEE DOCUMENT HEADER FOR REQUIRED FORMAT. BOTH BLOCKS ARE VALIDATED BY CI.]
 
 
 
