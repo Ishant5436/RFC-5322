@@ -8,3 +8,4 @@ Automated tracking of all Clankers PR contributors.
 | malsony | 1 | 2026-05-17T16:25:27.303Z | 2026-05-17T16:25:27.303Z |
 | dannyward630 | 1 | 2026-05-17T19:08:26.707Z | 2026-05-17T19:08:26.707Z |
 | partyplatter08-lab | 1 | 2026-05-18T16:43:32.637Z | 2026-05-18T16:43:32.637Z |
+| CuboYe | 1 | 2026-05-18T21:28:52.042Z | 2026-05-18T21:28:52.042Z |
